@@ -1,6 +1,6 @@
 # mo2_macros
-## Mortal Online 2 Macros
 
+## Mortal Online 2 Macros
 
 I recommend **ATBSWP**, a minimalist macro recorder made in Python: https://github.com/RMPR/atbswp/releases/tag/0.3.0.
 
@@ -13,7 +13,6 @@ The macros are build using [Visual Studio Code](https://code.visualstudio.com/do
 [autojump](https://github.com/tempusthales/mo2_macros/blob/main/autojump) - Jump in place (Ow, oh, hey, you, Who said that? Baby, how you been?)
 
 [autowalk](https://github.com/tempusthales/mo2_macros/blob/main/autowalk) - For walking, aimlessly.
-
 
 ## Instructions
 
@@ -29,5 +28,7 @@ The macros are build using [Visual Studio Code](https://code.visualstudio.com/do
 Whenever you want to change the macro you are using, click on the Play button to stop it (step 5), then click on the Document button (step 4) and reload a new macro, then click the Play button to activate the macro, then click on your game again.
 
 If you get stuck feel free to reach out to me via Discord @ Tempus Thanos#2600 Enjoy! 
+
+## Shouts
 
 Special thanks to [Wyqydsyq](https://github.com/wyqydsyq/mortal-macros) for the original idea.  My method is a bit simpler and doesn't require installing Python.
