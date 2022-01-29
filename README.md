@@ -18,7 +18,9 @@ The macros are build using [Visual Studio Code](https://code.visualstudio.com/do
 ## Instructions
 
 1. Once you install **ATBSWP** and launch it, then download the scripts in this repo to a folder.
-2. ![ATBSWP 0.3.0](https://i.imgur.com/MzpNjdD.png)
+   
+   ![ATBSWP 0.3.0](https://i.imgur.com/WL43U9M.png)
+   
 3. Click on the Gear (6th icon from left to right) and choose Infinite Playback. I recommend you also choose Always on Top, so that you can float ATBSWP on top.
 4. Click on the First Icon (Document with Arrow Up) and choose the script you want to run.
 5. Once the script is loaded, Click on the Play Icon (4th icon from left to right).
