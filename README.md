@@ -28,4 +28,6 @@ The macros are build using [Visual Studio Code](https://code.visualstudio.com/do
 
 Whenever you want to change the macro you are using, click on the Play button to stop it (step 5), then click on the Document button (step 4) and reload a new macro, then click the Play button to activate the macro, then click on your game again.
 
-If you get stuck feel free to reach out to me via Discord @ Tempus Thanos#2600 Enjoy!
+If you get stuck feel free to reach out to me via Discord @ Tempus Thanos#2600 Enjoy! 
+
+Special thanks to [Wyqydsyq](https://github.com/wyqydsyq/mortal-macros) for the original idea.  My method is a bit simpler and doesn't require installing Python.
