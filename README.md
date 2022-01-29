@@ -25,3 +25,7 @@ The macros are build using [Visual Studio Code](https://code.visualstudio.com/do
 4. Click on the First Icon (Document with Arrow Up) and choose the script you want to run.
 5. Once the script is loaded, Click on the Play Icon (4th icon from left to right).
 6. The macro will run when you click inside the game screen.
+
+Whenever you want to change the macro you are using, click on the Play button to stop it (step 5), then click on the Document button (step 4) and reload a new macro, then click the Play button to activate the macro, then click on your game again.
+
+If you get stuck feel free to reach out to me via Discord @ Tempus Thanos#2600 Enjoy!
